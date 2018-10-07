@@ -1,0 +1,49 @@
+.sec4{
+    .row{
+        .col-lg-6{
+            text-align: center;     
+            span{
+                font-size: 22px;
+                font-family: poppins-bold;
+                color:$primary;
+            }
+            h5{
+                font-size: 18px;
+                font-family: poppins-medium;
+                margin-top: 20px;
+                line-height: 28px;
+            }
+            p{
+                line-height: 26px
+            }
+            .pad-row{
+                padding: 0 45px;
+                margin-bottom: 100px;
+            }
+            h4{
+                font-size: 18px;
+                font-family: poppins-medium;
+                line-height: 28px;
+                padding-top: 15px;
+            }
+            .sub-head{
+                display: inline-block;
+                font-family: poppins-bold;
+                font-size: 22px;
+            }
+        }
+        .shadow-col{
+            padding: 45px 35px;  
+            box-shadow: 0 16px 24px 2px rgba(0,0,0,0.14), 0 6px 30px 5px rgba(0,0,0,0.12), 0 8px 10px -5px rgba(0,0,0,0.3);
+        }
+        .align-col{
+            padding: 45px 20px 75px 20px;
+        }
+        .align-col2{
+            padding: 45px 20px 100px 20px;
+        }
+    }
+    .center-title{
+        margin-bottom: 65px;
+    }
+}
